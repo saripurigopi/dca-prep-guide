@@ -7,7 +7,5 @@
 
 ## Additional references
 [Docker Swarm Overview](https://docs.docker.com/engine/swarm/)
-
 [Swarm Mode key concepts](https://docs.docker.com/engine/swarm/key-concepts/)
-
 [Getting started with Swarm mode](https://docs.docker.com/engine/swarm/swarm-tutorial/) 
