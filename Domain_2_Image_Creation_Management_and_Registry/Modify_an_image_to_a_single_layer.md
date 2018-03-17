@@ -11,5 +11,5 @@
 See the `--squash` option of [docker build](https://docs.docker.com/engine/reference/commandline/build/#options)  
 
 ## Third party resources
-[Flatten a Docker container or image](https://tuhrig.de/flatten-a-docker-container-or-image/)
+[Squashing Docker Images](http://jasonwilder.com/blog/2014/08/19/squashing-docker-images/)
 
